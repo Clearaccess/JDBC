@@ -1,0 +1,1 @@
+INSERT INTO Items (item_Id,seller_Id,title,description,start_price,start_bidding_date,buy_it_now) VALUES('1','1','title1','description1','100',TO_DATE('01.01.2017', 'DD.MM.YYYY'),'1');
